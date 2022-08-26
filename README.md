@@ -1,2 +1,2 @@
 my first readme
-new programmer
+New programmer
